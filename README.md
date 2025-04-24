@@ -103,7 +103,7 @@ This will:
 
 ## Team Members
 
-1. Krishna Ram Saravanakumar - A20578833 (ksaravankumar@hawk.iit.edu)
+1. Krishna Ram Saravanakumar - A20578833 (ksaravanakumar@hawk.iit.edu)
 2. Govind Kurapati - A20581868 (gkurapati@hawk.iit.edu)
 
 ---
